@@ -1,2 +1,2 @@
-# myDva
-简单使用dva，了解dva用法
+# myUmi
+简单使用umi，了解umi用法
